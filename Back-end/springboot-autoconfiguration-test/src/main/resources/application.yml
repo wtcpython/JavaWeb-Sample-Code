@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: springboot-autoconfiguration-test
+
+aliyun:
+  oss:
+    endpoint: https://oss-cn-hangzhou.aliyuncs.com
+    bucketName: java-web-tlias-oss
+    region: cn-hangzhou

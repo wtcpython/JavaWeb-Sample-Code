@@ -1,0 +1,14 @@
+com\wtc\Main.class
+com\wtc\pojo\LoginInfo.class
+com\wtc\pojo\Result.class
+com\wtc\pojo\PageResult.class
+com\wtc\pojo\ClazzCountOption.class
+com\wtc\pojo\OperateLog.class
+com\wtc\pojo\EmpExpr.class
+com\wtc\pojo\Dept.class
+com\wtc\pojo\JobOption.class
+com\wtc\pojo\Clazz.class
+com\wtc\pojo\Emp.class
+com\wtc\pojo\EmpQueryParam.class
+com\wtc\pojo\EmpLog.class
+com\wtc\pojo\Student.class
